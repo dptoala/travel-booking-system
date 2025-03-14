@@ -61,8 +61,7 @@ Before running the project, make sure you have:
 ├── register.php  # User registration page
 ├── dashboard.php # User dashboard
 ├── README.md     # Documentation file
-├── db_diagram.png  # Database diagram
-└── database.sql  # Database file
+└── /database     # Database file
 
 
 ---
