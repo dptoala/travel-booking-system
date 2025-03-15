@@ -4,12 +4,18 @@
 **Travel Booking System** is a web application that allows users to register, log in, and manage their flight reservations for domestic and international travel easily and efficiently.  It includes a user authentication system, booking management, and a database connection to store user and travel data.
 
 
+## 👨‍💻 Authors
+- Lucas Otaviano Meira Lobato  
+- Jessica Narita Hattori
+- Zenhayevsky Carolina Solorzano Acevedo  
+- Diana Paola Toala Lopez
+
+  
 ## 🏗️ System Architecture  
 The system follows a **client-server architecture
 
-
 **📌 Architecture Diagram:**  
-![Architecture Diagram](path/to/architecture.png)  
+![Architecture Diagram](https://github.com/dptoala/travel-booking-system/blob/main/database/architecture.png)  
 
 ---
 
@@ -63,12 +69,3 @@ Before running the project, make sure you have:
 ├── README.md     # Documentation file
 └── /database     # Database file
 
-
----
-
-
-## 👨‍💻 Authors
-- Lucas Otaviano Meira Lobato  
-- Jessica Narita Hattori
-- Zenhayevsky Carolina Solorzano Acevedo  
-- Diana Paola Toala Lopez
